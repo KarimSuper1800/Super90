@@ -71,4 +71,4 @@ Super90 is an independent project. It is not affiliated with or endorsed by Sili
 
 ## License
 
-MIT. See [LICENSE](LICENSE).
+See [LICENSE](LICENSE).
